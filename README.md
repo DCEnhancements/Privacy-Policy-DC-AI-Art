@@ -1,5 +1,6 @@
-# Privacy Policy for DC AI Art
+# Privacy Policy — DC AI Art
 
+Canonical public page: https://dcenhancements.com/policies/dc-ai-art/
 ## 1. Introduction
 
 DC Enhancements ("we", "our", "us") operates the **DC AI Art** application.  
@@ -110,7 +111,7 @@ Depending on your location, you may have the right to:
 - Request data portability  
 - Withdraw consent for optional data use  
 
-To exercise your rights, contact us at **dcenhancements@gmail.com** or use the in-app “Delete Account / Delete Data” option.
+To exercise your rights, contact us at **dev@dcenhancements.com** or use the in-app “Delete Account / Delete Data” option.
 
 ---
 
@@ -126,8 +127,8 @@ Continued use after updates means you accept the new terms.
 
 If you have questions, requests, or concerns:
 
-**Email:** dcenhancements@gmail.com  
-**Website:** [https://dcenhancements.github.io](https://dcenhancements.github.io)  
+**Email:** dev@dcenhancements.com  
+**Website:** [https://dcenhancements.com](https://dcenhancements.com)  
 **GitHub:** [https://github.com/dcenhancements](https://github.com/dcenhancements)
 
 ---
